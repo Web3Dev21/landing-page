@@ -1,0 +1,31 @@
+html {
+    background-color: rgb(103, 167, 223);
+}
+
+h1 {
+    font: 100px bold;
+    text-align: center;
+    color: aquamarine;
+    background-color: coral;
+}
+
+h3 {
+    font: 70x bold;
+    text-align: left;
+    color: black;
+}
+
+li {
+    text-align: left;
+}
+
+button {
+    color: black;
+    background-color: burlywood;
+}
+
+p {
+    color: rgb(215, 23, 23);
+}
+
+/* my css styles */
